@@ -1,4 +1,4 @@
-module github.com/viduranga/fudge-configs
+module fudge-configs
 
 go 1.21
 
