@@ -36,7 +36,7 @@ You have to manually update ALL of these files. Miss one? Enjoy debugging why yo
 ## 🚀 Getting This Party Started
 
 ```bash
-go install github.com/viduranga/fudge_configs@latest
+go install github.com/viduranga/fudge-configs@latest
 ```
 
 _That's it. Really._
