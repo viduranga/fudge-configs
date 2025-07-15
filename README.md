@@ -36,7 +36,7 @@ You have to manually update ALL of these files. Miss one? Enjoy debugging why yo
 ## 🚀 Getting This Party Started
 
 ```bash
-go build -o fudge-configs .
+go install github.com/viduranga/fudge_configs@latest
 ```
 
 _That's it. Really._
@@ -46,7 +46,7 @@ _That's it. Really._
 Fire it up:
 
 ```bash
-./fudge-configs
+fudge-configs
 ```
 
 ### 🕹️ Navigation (It's Not Rocket Science)
@@ -157,6 +157,11 @@ _One change, infinite happiness._ 🎉
 
 - [BubbleTea](https://github.com/charmbracelet/bubbletea) - Because terminal UIs should be delightful
 - [Lipgloss](https://github.com/charmbracelet/lipgloss) - Making things pretty since forever
+
+## 📝 TODO
+
+- [ ] Support multiple files
+- [ ] Support md section syncing
 
 ---
 
